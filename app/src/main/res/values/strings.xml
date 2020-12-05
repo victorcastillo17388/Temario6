@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temario6</string>
+    <string name="dominio">https://misuperpirestvictor.000webhostapp.com</string>
+    <string name="login">/login.php?Usuario=</string>
+    <string name="insertarcliente">/insertarcliente.php?</string>
+    <string name="vercliente">/clientes.php</string>
+    <string name="tel_fono_para_contactar">teléfono para contactar</string>
+    <string name="telefono">Telefono:</string>
+    <string name="direcci_n">dirección</string>
+</resources>
